@@ -237,6 +237,14 @@ input:checked ~ .slideM{
     margin-left: 27.5%;
 }
 
+.allignIframe{
+    text-align: center;
+}
+
+.btn-t2-bag{
+    margin-left: -20%;
+}
+
 /* Reaproveitando */
 .estilo-paragrafo{
     line-height:1.5;
@@ -350,12 +358,21 @@ input:checked ~ .slideM{
     .flex-item a{
         margin-left: 37.5%;
     }
+
+    .btn-t2-bag{
+        margin-left: -45%;
+    }
+
 }
 
 @media screen and (max-width:1440px){
 
     .flex-item a{
         margin-left: 29%;
+    }
+
+    .btn-t2-bag{
+        margin-left: -22.5%;
     }
 }
 
@@ -368,4 +385,9 @@ input:checked ~ .slideM{
     iframe{
         width:75% !important;
     }
+
+    .btn-t2-bag{
+        margin-left: 0;
+    }
+
 }
