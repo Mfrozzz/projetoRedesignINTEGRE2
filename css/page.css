@@ -28,7 +28,8 @@
 }
 
 body{
-    background-image:url(../image/fundo.jpg);
+    background-image:url(../image/fundo.png);
+    /* background-image:url(../image/fundo.jpg); */
     height: 100% !important;
     padding-bottom: 30px !important;
 }
@@ -117,8 +118,10 @@ p {
 }
 
 .fundo{
-    background-color:#dfdfdf;
-    border:3px solid var(--color-one);
+    background-color: rgba(236,244,248,0.91);
+    /* background-color: #dfdfdf; */
+    /* border: 3px solid var(--color-one) */
+    border-radius: 30px;
 }
 
 .corTemaTexto{

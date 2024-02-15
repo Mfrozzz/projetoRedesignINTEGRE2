@@ -19,13 +19,20 @@
 ### Conteúdos da disciplina
 
 <div style="width:90%;display: inline-block;" align="center">
-    <img alt="Inicio/Apresentação" src="./prints/telasMateriaOriginal (2).png">
+    <img alt="Live 1" src="./prints/telasMateriaOriginal (2).png">
     <p>Tab "Live" - Temática 1</p>
 </div>
 
 <br>
 
 <div style="width:90%;display: inline-block;" align="center">
-    <img alt="Inicio/Apresentação" src="./prints/telasMateriaOriginal (3).png">
+    <img alt="Atividades 1" src="./prints/telasMateriaOriginal (3).png">
     <p>Tab "Think" - Temática 1</p>
+</div>
+
+### Layout atualizado
+
+<div style="width:90%;display: inline-block;" align="center">
+    <img alt="Inicio/Apresentação" src="./prints/atualizacaoLayout.png">
+    <p>Exemplo na Apresentação</p>
 </div>
